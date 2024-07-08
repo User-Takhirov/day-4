@@ -1,0 +1,47 @@
+.service{
+    padding-top:120px ;
+    padding-bottom: 60px;
+}
+.service_title{
+font-weight: 700;
+font-size: 40px;
+color: #3d3d3f;
+text-align: center;
+margin-bottom: 55px;
+}
+.service_usage{
+font-weight: 700;
+font-size: 36px;
+color: #3d3d3f;
+}
+.service_text{
+font-weight: 400;
+font-size: 24px;
+color: #3d3d3f;
+opacity: 0.7;
+}
+.service_list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 2px solid rgba(13, 235, 24, 0.8);
+border-radius: 17px;
+padding: 54px 67px ;
+text-align: center;
+}
+.service_item:nth-child(2){
+    border-left: 2px solid rgb(14, 241, 71);
+     border-right: 2px solid rgb(14, 219, 7);
+     height: 242px;
+}
+.service_usage{
+font-weight: 700;
+font-size: 36px;
+color: #3d3d3f;
+margin-bottom: 13px;
+}
+.service_inner_text{
+font-weight: 400;
+font-size: 24px;
+color: #3d3d3f;
+opacity: 0.7;
+}

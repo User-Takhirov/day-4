@@ -1,0 +1,45 @@
+.testimonials{
+    padding-top: 120px;
+    padding-bottom: 110px;
+}
+
+.testiminials_title{
+    text-align: center;
+font-weight: 700;
+font-size: 40px;
+color: #3d3d3f;
+margin-bottom: 34px;
+}
+.testiminials_img_block{
+    justify-content: center;
+    text-align: center;
+}
+.testiminials_block{
+    width: 319px;
+    background-color: #fff;
+    border-radius:10px ;
+    padding: 22px 14px 13px 18px;
+    margin-left: 57%;
+}
+.testiminials_text{
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #515155;
+margin-bottom: 15px;
+}
+.testiminials_name{
+font-weight: 500;
+font-size: 20px;
+text-align: center;
+background: linear-gradient(180deg, #f35f2f 0%, rgba(243, 95, 47, 0.75) 100%);
+background-clip: text;
+margin-bottom: 5px;
+}
+.testiminials_sub_text{
+    opacity: 0.7;
+font-weight: 400;
+font-size: 14px;
+text-align: center;
+color: #515155;
+}
