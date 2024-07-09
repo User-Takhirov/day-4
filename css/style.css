@@ -467,7 +467,7 @@ body {
 }
 
 .name_input {
-  padding: 19px 0px 19px 12px;
+  padding: 19px 10px 19px 12px;
   width: 343px;
   border: none;
   border-radius: 5px;
@@ -486,7 +486,7 @@ body {
 
 .writing_input {
   width: 719px;
-  padding: 19px 0 150px 18px;
+  padding: 19px 43px 150px 18px;
   border: none;
   -webkit-box-shadow: 0 4px 120px 0 rgba(0, 0, 0, 0.03);
           box-shadow: 0 4px 120px 0 rgba(0, 0, 0, 0.03);
@@ -583,7 +583,7 @@ body {
 }
 
 .footer_input {
-  padding: 12px 0 12px 20px;
+  padding: 12px 20px 12px 20px;
   width: 292px;
   border: none;
   border: 1.1px solid #e1e2e4;
